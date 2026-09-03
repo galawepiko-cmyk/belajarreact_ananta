@@ -9,7 +9,7 @@ function App() {
 
         <h1>Profile</h1>
         <Labelnama nama="Ananta" />
-        <Labelalamat alamat="jl. Apa Aja" />
+        <Labelalamat alamat="jl. Mangga besar XIX" />
 
         <EventExample />
   
